@@ -35,11 +35,15 @@ Select an image to upload and click the "Predict" button to make a prediction ab
 
 ## File Descriptions:
 
-rei_app.py: Contains the main Flask application code.
-util.py: Contains utility functions for image preprocessing.
-resnet_2_new: Contains the pre-trained ResNet model in JSON format.
-resnet_new.h5: Contains the pre-trained weights for the ResNet model.
-class_dicts: Contains the dictionary of class labels for the model.
+rei_app.py: Contains the main Flask application code
+
+util.py: Contains utility functions for image preprocessing
+
+resnet_2_new: Contains the pre-trained ResNet model in JSON format
+
+resnet_new.h5: Contains the pre-trained weights for the ResNet model
+
+class_dicts: Contains the dictionary of class labels for the model
 
 ## Author:
 
